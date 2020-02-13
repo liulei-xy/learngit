@@ -8,4 +8,4 @@ Git is a distributed version control system
 Git is free softwaare distributed under the GPL
 Git has a mutable index called stage
 最终修改的内容
-分支管理策略，通过master修改
+分支管理策略master修改
