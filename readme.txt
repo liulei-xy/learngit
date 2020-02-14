@@ -10,3 +10,4 @@ Git has a mutable index called stage
 最终修改的内容
 分支管理策略master修改
 分支管理策略通过temp3修改
+Bug分支管理（通过temp4修改）
